@@ -44,7 +44,7 @@ Anyone with a Discord account - even from our Earth - can join this server [here
 - The Chrome Discordmate extension was used to download historic data from the UPE Discord server and #shellhacks channel.  (For the purpose of the training model used, 200 recent chat entries were used.)
 - Extraneous columns were deleted, leaving a single column consisting of the posts's text content.
 - Each of the posts were labeled either TRUE (question) or FALSE (non-question) in a second column (to the right).
-- The data was cleaned using the Python file clean_data.py located in this Github repo to remove posts with newline characters, remove non-ASCII characters, URLs, and duplicate entries (e.g., "Thanks!").
+- The data was cleaned using the Python file clean_data.py located in this Github repo to remove posts with newline characters, and remove non-ASCII characters, URLs, and duplicate entries (e.g., "Thanks!").
 
 ### Google Cloud Vertex AI
 
