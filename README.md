@@ -16,7 +16,7 @@
 
 Quite often, in Discord servers created for events like ShellHacks or for other communities such as in the education space, questions and requests posted have previously already been asked and answered by others.  Consequently, the server's moderators and other community members end up posting redundant responses.  The Discord FAQ AI Bot was developed to address this issue and improve the overall experience for Discord community members.
 
-The bot monitors chats 24/7 and uses a trained machine learning model to predict whether a new post is a question or request that has been routinely posted on Discord in the past.  The bot will generate a confidence score ranging from 0 to 1 (or 0% to 100%) that the post is similar to previous ones.  If the score is greater than 50%, the bot directly replies to the original poster with a statement about its prediction and directing them to a linked FAQ document.
+The AI monitors chats 24/7 and uses a trained machine learning model to predict whether a new post is a question or request that has been routinely posted on Discord in the past.  The bot will generate a confidence score ranging from 0 to 1 (or 0% to 100%) that the post is similar to previous ones.  If the score is greater than 50%, the bot directly replies to the original poster with a statement about its prediction and directing them to a linked FAQ document.
 
 ---
 
