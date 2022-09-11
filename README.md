@@ -56,7 +56,7 @@ After registering for a Google Cloud account (and applying a $25 education credi
 
 ### Google Cloud Compute Engine (VM Instance)
 
-After establishing Google ADC credentials, a Python script was created locally that controls the AI Bot's behavior as follows:
+After establishing Google ADC credentials, a Python (3.10) script was created locally that controls the AI Bot's behavior as follows:
 
 - Listen for new posts.
 - Call the prediction endpoint (via a Google provided prediction Python script) with the new text.
