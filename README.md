@@ -4,7 +4,7 @@
 ---
 ## Contents
 
-- [Project Description and Overview](#project-description-and-overview)]
+- [Project Description and Overview](#project-description-and-overview)
 - [Development Methodology](#development-methodology)
 - [License](#license)
 - [GitHub Repository](#github-repository)
@@ -21,7 +21,7 @@ The bot monitors chats 24/7 and uses a trained machine learning model to predict
 
 ---
 
-<img src="https://i.ibb.co/f9KLK0Z/Screen-Shot-2022-09-11-at-9-44-26-AM.png" alt="sample post/reply" border="0">
+<a href="https://ibb.co/gdXhXgQ"><img src="https://i.ibb.co/f9KLK0Z/Screen-Shot-2022-09-11-at-9-44-26-AM.png" alt="Screen-Shot-2022-09-11-at-9-44-26-AM" border="0"></a>
 
 ---
 
