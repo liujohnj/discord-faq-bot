@@ -6,7 +6,6 @@
 
 - [Project Description and Overview](#project-description-and-overview)
 - [Development Methodology](#development-methodology)
-- [License](#license)
 - [GitHub Repository](#github-repository)
 - [Contact Me](#contact-me)
 - [License](#license)
